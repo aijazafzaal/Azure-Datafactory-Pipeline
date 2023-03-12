@@ -1,4 +1,4 @@
-Data from S3 buckets is moved to Blob containers by using Azure Data Factory Pipeline and mounted on Azure Databricks.  
+Data from S3 buckets is moved to Azure Blob Storage by using Azure Data Factory Pipeline and mounted on Azure Databricks.  
 The file is converted into a table in Databricks and analysis is performed using SparkSQL.
 
 
