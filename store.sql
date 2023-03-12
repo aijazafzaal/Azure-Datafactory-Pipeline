@@ -9,7 +9,7 @@
 -- MAGIC   source= "wasbs://raw@blobstorage95.blob.core.windows.net",
 -- MAGIC   mount_point="/mnt/raw",
 -- MAGIC   extra_configs={"fs.azure.account.key.blobstorage95.blob.core.windows.net":"MxEkQcMq7qwlN8qSor7ZSmz4hLz4lzxbl536OzbcqlA38xHNC4sEAI+0wnHYkQ6B2CcNTSyj+AStLjfCDw=="})
-                                                                                      I changed the pin :)
+                                                                                     -- I changed the pin :)
 -- COMMAND ----------
 
 -- MAGIC %python
